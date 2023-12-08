@@ -1,0 +1,2 @@
+# HazelCopy
+Hazel Game Engine
